@@ -1,3 +1,3 @@
 # Oop2_Project
 
-A GUI application for testing yourself.
+A GUI application made in Java for examining yourself. 
